@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta charset="UTF-8";>
+  <title>New project</title>
+  <base target="_self">
+  <style>
+body 
+ {
+background: #dfe550;
+background-size: 100%;
+  }
+    
+	a {text-decoration: none;}
+	</style>
+ </head>
+ <body text=#FFe500>
+ <P align="center"><font size="6"><a href="https://yandex.ru"> Здесь хранится вся информация в мире</font></p>
+<p align="center"><font size="2"><img src="y.png" width=65%" height="100%"></width>></a></p><div>
+
+  
+ 
+ </body>
+</html>
